@@ -1,0 +1,9 @@
+---
+title: "About"
+---
+
+Hi! This is Jenny. I am a third-year undergraduate student at the University of Toronto, specializing in Mathematics and Statistics. My academic interests lie at the intersection of data analysis, quantitative research, and financial modeling. I am passionate about leveraging data to uncover insights and solve complex problems.
+
+Beyond academics, I enjoy engaging in activities such as bouldering, hockey, and tennis, which help me stay active and balanced. I am also exploring career opportunities in quantitative analysis, data science, and consulting, where I hope to apply my skills to real-world challenges.
+
+Feel free to connect with me to discuss potential collaborations, research opportunities, or just to chat about data science and mathematics!

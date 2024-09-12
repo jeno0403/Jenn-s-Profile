@@ -1,0 +1,18 @@
+project:
+  type: website 
+  output-dir: docs
+
+website:
+  title: "Jinyan Wei's Profile"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: journal
+    css: styles.css
+    toc: true
+
